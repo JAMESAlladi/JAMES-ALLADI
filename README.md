@@ -1,36 +1,257 @@
-# Hi 👋, I'm ALLADI JAMES PAUL
+<div align="center">
 
-### A passionate web developer from India
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesalladi&label=Profile views&color=0e75b6&style=flat" alt="jamesalladi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/JAMES PAUL ALLADI" target="blank"><img src="https://img.shields.io/twitter/follow/JAMES PAUL ALLADI?logo=twitter&style=for-the-badge" alt="JAMES PAUL ALLADI" /></a> </p>
-
-- 🔭 I'm currently working on **Build a Music Streaming Appalication**
-
-- 🌱 I'm currently learning **Django, Flask, and FastAPI**
-
-- 👯 I'm looking to collaborate on **Python Native Projects**
-
-- 🤝 I'm looking for help with **Web Development**
-
-- 📫 How to reach me **jamespaulalladi@gmail.com**
-
-- ⚡ Fun fact **I think I am funny
-**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/jamesalladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jamesalladi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alladi james paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alladi james paul" height="30" width="40" /></a>
-<a href="https://instagram.com/rhy___james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhy___james" height="30" width="40" /></a>
-<a href="https://twitter.com/JAMES PAUL ALLADI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JAMES PAUL ALLADI" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/samalladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samalladi" height="30" width="40" /></a>
-<a href="https://leetcode.com/alladijames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alladijames" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+RAG;MLOps+%7C+Model+Deployment;Building+Intelligent+Systems+%F0%9F%9A%80" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<p>
+  <img src="https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative-AI-green?style=for-the-badge"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesalladi&" alt="jamesalladi" /></p>
+<p>
+  📍 Amaravati, India &nbsp; • &nbsp;
+  🎓 Integrated M.TECH in Computer Science and Engineering, @ VIT-AP University
+</p>
 
+</div>
+
+
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jamespaulalladi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jamespaulalladi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JAMESAlladi/JAMES-ALLADI" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+
+# 🧑‍💻 About Me
+
+🎓 Master's student in **Computer Science and Engineering at VITAP-UNIVERSITY, India**
+
+🤖 Artificial Intelligence Engineer focused on building intelligent and scalable applications.
+
+🧠 Strong foundation in **Artificial Engineering,Generative AI,MLops**.
+
+✨ Exploring **LLMs, AI applications and intelligent automation**.
+
+⚙️ Interested in taking AI systems from **data → model → API → deployment → production**.
+
+🚀 Passionate about applying Artificial Intelligence to solve real-world problems.
+
+---
+
+# 🚀 What I'm Currently Working On
+
+- 🤖 Python & Artificial Intelligence projects
+- 🧠 Generative AI and LLM applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🎙️ Audio-based Artificial Intelligence
+- 👁️ Computer Vision
+- ⚙️ Production ML pipelines
+- 🚀 Model deployment & MLOps
+- 🔗 AI APIs and intelligent applications
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js"/>
+</p>
+
+`Python` `SQL` `C` `JavaScript`  
+
+---
+
+## 🤖 Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`Scikit-learn` `XGBoost` `LightGBM` `Random Forest`
+
+`Logistic Regression` `Decision Trees` `Classification`
+
+`Regression` `Clustering` `Feature Engineering`
+
+`Model Evaluation` `Hyperparameter Tuning`
+
+---
+
+## ✨ Generative AI & LLMs
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`OpenAI API` `LangChain` `RAG`
+
+`Prompt Engineering` `ChromaDB`
+
+`Vector Databases` `LLM Application Development`
+
+---
+
+## ⚙️ MLOps & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux"/>
+</p>
+
+`FastAPI` `Docker` `Apache Airflow`
+
+`ML Pipelines` `CI/CD`
+
+`Model Deployment` `Workflow Automation`
+
+`Git` `GitHub`
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🏠 Advanced House Price Prediction
+
+**Machine Learning • MLOps**
+
+Production-ready ML pipeline using:
+
+- Random Forest
+- XGBoost
+- Feature Engineering
+- Hyperparameter Optimization
+- Model Evaluation
+- Workflow Automation
+- Monitoring
+- Deployment
+
+**📈 18% performance improvement**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## ❤️ Real-Time Heart Disease Prediction
+
+**Machine Learning • FastAPI**
+
+Real-time cardiovascular risk prediction using:
+
+- Logistic Regression
+- Random Forest
+- 15+ health indicators
+- FastAPI inference service
+
+**🎯 92.4% accuracy**
+
+**⚡ <200ms inference latency**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎓 Education
+
+### 🎓 VITAP – School of Computer Science and Engineering
+
+**Master's in Computer Science and Engineering**
+
+📍 Amaravati, India 
+ 2026 – graduated
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+💻 **10 Public Repositories**  
+🔥 **25 Contributions**  
+🚀 **AI / ML / GenAI Projects**
+
+</p>
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=JAMESAlladi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 My Contribution Journey
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/JAMESAlladi/JAMESAlladi/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🎯 AI Journey
+
+```text
+                      Python Full Stack
+                              │
+               ┌──────────────┴──────────────┐
+               │                             │
+             Backend                      Frontend
+               │                             │
+       ┌───────┴───────┐             ┌───────┴───────┐
+       │               │             │               │
+ Django/Flask       FastAPI      HTML/CSS       JavaScript
+       │                             │               │
+       └──────────────┬──────────────┘               │
+                      │                              │
+             Databases: MongoDB                      │
+                      │                              │
+              REST APIs + Auth                       │
+                      │                              │
+                Git • GitHub                         │
+                      │                              │
+                      └──────────────┬───────────────┘
+                                     │
+                                 Deployment
+                                     │
+                              Docker • CI/CD
+                               Cloud Hosting
+                                     │
+                                     ▼
+                         Job-Ready Developer 🚀
+```
